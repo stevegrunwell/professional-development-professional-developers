@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Professional Development for Professional Developers",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "professional-development-professional-developers"
+  }
+}
