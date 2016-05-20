@@ -290,3 +290,16 @@ body {
 
 .reveal blockquote {
   background: rgba(0, 0, 0, 0.6); }
+
+.reveal .logo-grid ul {
+  overflow: hidden;
+  margin: 0;
+  list-style: none; }
+
+.reveal .logo-grid li {
+  float: left;
+  width: 33.3333333333%; }
+
+.reveal .logo-grid img {
+  margin: 0 auto;
+  border: none; }

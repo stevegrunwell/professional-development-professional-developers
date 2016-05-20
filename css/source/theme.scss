@@ -60,4 +60,22 @@ section.has-light-background {
 	blockquote {
 		background: rgba(0, 0, 0, 0.6)
 	}
+
+	.logo-grid {
+		ul {
+			overflow: hidden;
+			margin: 0;
+			list-style: none;
+		}
+
+		li {
+			float: left;
+			width: (1/3) * 100%;
+		}
+
+		img {
+			margin: 0 auto;
+			border: none;
+		}
+	}
 }
