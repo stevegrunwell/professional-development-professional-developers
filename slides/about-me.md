@@ -1,3 +1,5 @@
+<!-- .slide: data-background="resources/about.jpg" -->
+
 ##  Who am I?
 
 * Senior Web Engineer @ [10up](http://10up.com)

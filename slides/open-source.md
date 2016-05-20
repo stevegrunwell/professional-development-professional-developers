@@ -1,3 +1,7 @@
-##  Open-source
+<!-- .slide: data-background="resources/open-source.jpg" -->
 
-This is a new Markdown slide
+## Open-source FTW!
+
+
+Note:
+

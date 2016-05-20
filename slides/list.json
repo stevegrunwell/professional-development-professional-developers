@@ -4,17 +4,42 @@
         "about-me.md",
         "emily.md"
     ],
-    "passion.md",
-    "industry.md",
-    "other-people.md",
+    [
+        "passion.md",
+        "passion2.md"
+    ],
+    [
+        "industry.md",
+        "keeping-up.md"
+    ],
+    [
+        "other-people.md",
+        "fomo.md"
+    ],
     "stress.md",
     "ideas.md",
     "open-source.md",
     "code.md",
-    "learning.md",
-    "mentorship.md",
-    "humility.md",
-    "community.md",
+    [
+        "learning.md",
+        "cringe.md"
+    ],
+    [
+        "mentorship.md",
+        "matt-haynes.md",
+        "matt-jones.md",
+        "paul-tela.md",
+        "eric-mann.md",
+        "becoming-a-mentor.md"
+    ],
+    [
+        "humility.md",
+        "programming-is-hard.md"
+    ],
+    [
+        "community.md",
+        "trolls.md"
+    ],
     "together.md",
     "thank-you.md"
 ]

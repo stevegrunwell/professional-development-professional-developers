@@ -1,3 +1,8 @@
-##  Stress
+<!-- .slide: data-background="resources/stress.jpg" -->
 
-This is a new Markdown slide
+## Stress: The Silent Killer
+
+
+note:
+
+

@@ -1,3 +1,8 @@
-##  Together
+<!-- .slide: data-background="resources/together.jpg" -->
 
-This is a new Markdown slide
+## Remember: We're All in this Together
+
+
+Note:
+
+Our industry is one where a little curiosity can open entirely new worlds, so ask questions, try new things, and never stop moving forward.

@@ -51,3 +51,13 @@ section.has-light-background {
 // Theme template ------------------------------
 @import "../../bower_components/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
+
+.reveal {
+	h1, h2, h3 {
+		text-shadow: 0 0 7px #222;
+	}
+
+	blockquote {
+		background: rgba(0, 0, 0, 0.6)
+	}
+}
