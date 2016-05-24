@@ -1,4 +1,5 @@
 [
+    "intro.md",
     "index.md",
     [
         "about-me.md",
@@ -16,7 +17,12 @@
         "other-people.md",
         "fomo.md"
     ],
-    "stress.md",
+    [
+        "stress.md",
+        "relax.md",
+        "vacation.md",
+        "depression.md"
+    ],
     "ideas.md",
     "open-source.md",
     "code.md",
