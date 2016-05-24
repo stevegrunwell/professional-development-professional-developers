@@ -61,6 +61,16 @@ section.has-light-background {
 		background: rgba(0, 0, 0, 0.6)
 	}
 
+	.slides-link {
+		display: block;
+		margin-top: 1em;
+		font-size: .86em;
+		white-space: nowrap;
+		+ .slides-link {
+			margin-top: 0;
+		}
+	}
+
 	.logo-grid {
 		ul {
 			overflow: hidden;

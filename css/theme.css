@@ -291,6 +291,14 @@ body {
 .reveal blockquote {
   background: rgba(0, 0, 0, 0.6); }
 
+.reveal .slides-link {
+  display: block;
+  margin-top: 1em;
+  font-size: .86em;
+  white-space: nowrap; }
+  .reveal .slides-link + .slides-link {
+    margin-top: 0; }
+
 .reveal .logo-grid ul {
   overflow: hidden;
   margin: 0;
