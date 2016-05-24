@@ -8,7 +8,7 @@ This talk focuses on the professional development of a professional developer. H
 
 ## Presentation History
 
-* [php[tek] 2016](https://tek.phparch.com/) - May 26, 2016
+* [php[tek] 2016](https://tek.phparch.com/) - May 26, 2016 ([joind.in](https://joind.in/talk/1e328))
 
 ## Notes
 
