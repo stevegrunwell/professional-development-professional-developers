@@ -1,9 +1,9 @@
 <!-- .slide: data-background="resources/industry.jpg" -->
 
-##  Industry
+## Keeping up with the Industry
 
 
-note:
+Note:
 
 It's important to keep up with what's going on in the industry, but it's impossible to be on top of every new technology or technique
 
