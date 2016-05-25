@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/open-source.jpg" -->
 
-## Leverage Open-source
+## 6. Leverage Open-source
 
 
 Note:

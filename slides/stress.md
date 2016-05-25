@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/stress.jpg" -->
 
-## Monitor your Stress
+## 4. Monitor your Stress
 
 
 Note:

@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/mentorship.jpg" -->
 
-## Find (and become) a Mentor
+## 9. Find (and become) a Mentor
 
 
 Note:

@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/code.jpg" -->
 
-## Code Speaks Louder Than Words
+## 7. Code Speaks Louder Than Words
 
 ### (Ship or Get Off the Pot)
 

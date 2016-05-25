@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/other-people.jpg" -->
 
-## Stop Worrying About What Other People Are Doing!
+## 3. Stop Worrying About What Other People Are Doing!
 
 
 Note:
