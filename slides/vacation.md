@@ -1,3 +1,5 @@
+<!-- .slide: data-background="resources/vacation.jpg" -->
+
 ### Vacation: Use it (if you have it)!
 
 

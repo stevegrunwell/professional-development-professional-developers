@@ -32,3 +32,4 @@ Many of the photos used as backgrounds in this slide come from [Unsplash](https:
 * [Learning](https://unsplash.com/photos/5mZ_M06Fc9g) - Roman Mager
 * [Together](https://unsplash.com/photos/AZMmUy2qL6A) - Kimson Doan
 * [Community](https://unsplash.com/photos/pPquxoraq_M) - Ezra Jeffrey
+* [Vacation](https://unsplash.com/photos/58Mkqady7lE) - David Marcu
