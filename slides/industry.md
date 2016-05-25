@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/industry.jpg" -->
 
-## Keeping up with the Industry
+## Keep up with the Industry
 
 
 Note:

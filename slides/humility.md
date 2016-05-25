@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/humility.jpg" -->
 
-##  Humility
+## Learn Humility
 
 
 Note:

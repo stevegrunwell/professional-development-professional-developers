@@ -2,7 +2,7 @@
 
 ## Code Speaks Louder Than Words
 
-### Ship or Get Off the Pot <!-- .element: class="fragment" -->
+### (Ship or Get Off the Pot)
 
 
 Note:

@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/stress.jpg" -->
 
-## Stress: The Silent Killer
+## Monitor your Stress
 
 
 Note:
