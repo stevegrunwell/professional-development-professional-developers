@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/learning.jpg" -->
 
-## Never Stop Learning
+## 8. Never Stop Learning
 
 
 Note:

@@ -1,9 +1,9 @@
 <!-- .slide: data-background="resources/mentorship.jpg" -->
 
-## Mentorship
+## 9. Find (and become) a Mentor
 
 
-note:
+Note:
 
 Finding a mentor can be the difference between forever floundering with Bootstrap and building the web apps of the future.
 

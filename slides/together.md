@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/together.jpg" -->
 
-## Remember: We're All in this Together
+## 12. Remember: We're All in this Together
 
 
 Note:

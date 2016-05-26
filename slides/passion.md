@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/passion.jpg" -->
 
-##  Passion
+## 1. Be Passionate
 
 note:
 

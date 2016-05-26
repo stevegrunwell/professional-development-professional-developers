@@ -1,3 +1,5 @@
+<!-- .slide: data-background-image="resources/osmi.png" data-background-size="contain" -->
+
 ### Depression
 
 [osmihelp.org](https://osmihelp.org/)<!-- .element: class="fragment" -->
