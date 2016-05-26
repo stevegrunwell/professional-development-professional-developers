@@ -1,6 +1,6 @@
 <!-- .slide: data-background="resources/idea.jpg" -->
 
-## A Good Idea is a Terrible Thing to Waste
+## 5. Keep Track of your Ideas
 
 
 Note:
