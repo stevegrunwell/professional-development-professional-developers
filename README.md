@@ -4,7 +4,7 @@ The best and worst part about our chosen vocation is that there's an endless amo
 
 This talk focuses on the professional development of a professional developer. How do we continue to grow as professionals without getting totally overwhelmed with information? We'll touch on the topics of stress, education, humility, and more.
 
-**[View slides](https://stevegrunwell.com/slides/professional-development)**
+**[View slides](http://stevegrunwell.github.io/professional-development-professional-developers)**
 
 ## Presentation History
 
