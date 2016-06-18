@@ -8,11 +8,12 @@ This talk focuses on the professional development of a professional developer. H
 
 ## Presentation History
 
+* [WordCamp NEO 2016](https://2016.neo.wordcamp.org/) - June 12, 2016
 * [php[tek] 2016](https://tek.phparch.com/) - May 26, 2016 ([joind.in](https://joind.in/talk/1e328))
 
 ## Notes
 
-This talk is loosely-based on [a series of blog posts I wrote for Buckeye Interactive in 2013](http://www.buckeyeinteractive.com/2013/09/professional-development-for-professional-developers/), though I've recently rewritten the series as [an article for php[architect] magazine](https://www.phparch.com/).
+This talk is loosely-based on [a series of blog posts I wrote for Buckeye Interactive in 2013](http://www.buckeyeinteractive.com/2013/09/professional-development-for-professional-developers/), though I've recently rewritten the series as [an article for php[architect] magazine, published in the June 2016 issue](https://www.phparch.com/magazine/2016-2/june/).
 
 ## Photo credits
 
