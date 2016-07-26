@@ -8,6 +8,7 @@ This talk focuses on the professional development of a professional developer. H
 
 ## Presentation History
 
+* [Northeast PHP 2016](http://2016.northeastphp.org/) - August 5, 2016 
 * [WordCamp NEO 2016](https://2016.neo.wordcamp.org/) - June 12, 2016
 * [php[tek] 2016](https://tek.phparch.com/) - May 26, 2016 ([joind.in](https://joind.in/talk/1e328))
 
