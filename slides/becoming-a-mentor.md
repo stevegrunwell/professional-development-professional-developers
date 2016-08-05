@@ -1,6 +1,6 @@
 ### Find and/or Become a Mentor!
 
-[phpmentoring.org](http://phpmentoring.org/)
+[php-mentoring.org](http://php-mentoring.org/)
 
 
 Note:

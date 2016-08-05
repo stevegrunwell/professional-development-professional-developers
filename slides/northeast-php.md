@@ -1,0 +1,1 @@
+<!-- .slide: data-background-image="resources/nephp.jpg" data-background-size="contain" data-background-color="#fff" -->
